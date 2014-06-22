@@ -1,4 +1,3 @@
-courseproject
-=============
+### README.md
 
-Course Project for Coursera "Getting and Cleaning Data" class.
+
